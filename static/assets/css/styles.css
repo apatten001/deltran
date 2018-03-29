@@ -1,0 +1,65 @@
+body {
+  margin:0;
+  font-family:"Segoe UI", "Source Sans Pro", Calibri, Candara, Arial, sans-serif;
+  text-align:center;
+}
+
+#students {
+  text-align:center;
+  padding:40px;
+  background:url(../../assets/img/ENG_Students.jpg) no-repeat;
+  background-size:cover;
+  margin:20px 0 60px;
+}
+
+#welcome {
+  margin-top:20px;
+  background-color:rgba(137,213,255,0.18);
+}
+
+#welcome1 {
+  margin-top:20px;
+}
+
+#welcome p {
+  font-weight:400;
+}
+
+#welcome1 img {
+  width:400px;
+}
+
+.intro {
+  text-align:center;
+  padding:30px;
+}
+
+.dark-section {
+  background-color:#ddd;
+}
+
+#icons {
+  font-size:40px;
+}
+
+#icon-1 {
+  font-size:40px;
+}
+
+@media (min-width: 992px) {
+  #students {
+    padding:20px;
+  }
+}
+
+#students .jumbotron {
+  border-radius:20px;
+  padding:40px;
+  background-color:rgba(255,255,255,0.6);
+  max-width:800px;
+  margin:auto;
+}
+
+#students .jumbotron {
+}
+
